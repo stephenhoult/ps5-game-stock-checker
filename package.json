@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "colors": "^1.4.0",
+    "moment": "^2.29.1",
+    "open": "^7.4.0",
+    "puppeteer": "^7.0.4"
+  }
+}
